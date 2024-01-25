@@ -1,13 +1,49 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Merriweather", serif !important;
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+section{
+  margin-bottom: 4%;
+}
+
+.card {
+  border: none !important;
+  margin: 1%;
+  border-radius: none;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Rubik Doodle Shadow", system-ui;
+}
+
+.HeroTitle {
+  font-size: 4rem;
+  font-weight: 900;
+  color: white;
+  text-align: center;
+}
+
+.HeroSlogan {
+  font-size: 2rem;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+
+.FEATURES .FEATURES-card {
+  padding-top: 9%;
+  padding-bottom: 9%;
+}
+
+.DESIGN img{
+  height: 512px;
+  width: 512px;
 }

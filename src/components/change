@@ -1,0 +1,42 @@
+
+<div className="col-lg-4   which-laptop-card">
+    <div className="card h-100">
+        <div className="card-body">
+            <h5 className="card-title">Wi-Fi 6</h5>
+            <h1 className="card-text">Superfast Wi‑Fi 6 connection keeps MacBook Air going strong even as more and more devices join the network.</h1>
+            <img src="{wifi}" className="card-img-top" alt="..." />
+            <h2>Wi-Fi 6</h2>
+            <h4>up to 1.2Gb/s throughput4</h4>
+
+        </div>
+
+    </div>
+</div>
+
+<div className="col-lg-4   which-laptop-card">
+    <div className="card h-100">
+        <div className="card-body">
+            <h5 className="card-title">Wi-Fi 6</h5>
+            <h1 className="card-text">Superfast Wi‑Fi 6 connection keeps MacBook Air going strong even as more and more devices join the network.</h1>
+            <img src="{wifi}" className="card-img-top" alt="..." />
+            <h2>Wi-Fi 6</h2>
+            <h4>up to 1.2Gb/s throughput4</h4>
+
+        </div>
+
+    </div>
+</div>
+
+<div className="col-lg-4   which-laptop-card">
+    <div className="card h-100">
+        <div className="card-body">
+            <h5 className="card-title">Wi-Fi 6</h5>
+            <h1 className="card-text">Superfast Wi‑Fi 6 connection keeps MacBook Air going strong even as more and more devices join the network.</h1>
+            <img src="{wifi}" className="card-img-top" alt="..." />
+            <h2>Wi-Fi 6</h2>
+            <h4>up to 1.2Gb/s throughput4</h4>
+
+        </div>
+
+    </div>
+</div>
