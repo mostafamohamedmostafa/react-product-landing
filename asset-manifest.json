@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-product-landing/static/css/main.9a58e61c.css",
+    "main.js": "/react-product-landing/static/js/main.3df66377.js",
+    "static/js/787.58785319.chunk.js": "/react-product-landing/static/js/787.58785319.chunk.js",
+    "static/media/app_os.png": "/react-product-landing/static/media/app_os.d303be936e305a7553e3.png",
+    "static/media/Heroimg.jpg": "/react-product-landing/static/media/Heroimg.24074b620f82946974a0.jpg",
+    "static/media/color1.jpg": "/react-product-landing/static/media/color1.bc4f0a1411cecc64402c.jpg",
+    "static/media/color4.jpg": "/react-product-landing/static/media/color4.f103c3c0233d7edd40ca.jpg",
+    "static/media/color2.jpg": "/react-product-landing/static/media/color2.d126c39aa284ce003249.jpg",
+    "static/media/color3.jpg": "/react-product-landing/static/media/color3.973c2f5d205da402f2fa.jpg",
+    "static/media/connect-mobile.jpg": "/react-product-landing/static/media/connect-mobile.451fae8420428a2ac30b.jpg",
+    "static/media/Trackimg.jpg": "/react-product-landing/static/media/Trackimg.b8caa683ae99295ab5d2.jpg",
+    "static/media/Trackerpossibilities.jpg": "/react-product-landing/static/media/Trackerpossibilities.2c309f1aea006d2956fa.jpg",
+    "static/media/interface.jpg": "/react-product-landing/static/media/interface.30b19b865f7dd4902c0f.jpg",
+    "static/media/Featuresimg.jpg": "/react-product-landing/static/media/Featuresimg.58bcbcc40328644ccbb0.jpg",
+    "static/media/app3.jpg": "/react-product-landing/static/media/app3.99c8f8f2211a87b50945.jpg",
+    "static/media/app1.jpg": "/react-product-landing/static/media/app1.3c1d655974d51e92fc47.jpg",
+    "static/media/app2.jpg": "/react-product-landing/static/media/app2.7995456fc78b2f7faeeb.jpg",
+    "static/media/usefulfeature4.jpg": "/react-product-landing/static/media/usefulfeature4.57970a438ea50ba713a0.jpg",
+    "static/media/usefulfeature3.jpg": "/react-product-landing/static/media/usefulfeature3.8bc628090305bf6aeb06.jpg",
+    "static/media/usefulfeature1.jpg": "/react-product-landing/static/media/usefulfeature1.8618c082f650452c8d6b.jpg",
+    "static/media/usefulfeature2.jpg": "/react-product-landing/static/media/usefulfeature2.060fc8ce0a6e8f185d4c.jpg",
+    "static/media/usefulfeature5.jpg": "/react-product-landing/static/media/usefulfeature5.0505b8fee2a8d730048a.jpg",
+    "static/media/Featuressize.jpg": "/react-product-landing/static/media/Featuressize.65f45bbb30cc96cdff02.jpg",
+    "index.html": "/react-product-landing/index.html",
+    "main.9a58e61c.css.map": "/react-product-landing/static/css/main.9a58e61c.css.map",
+    "main.3df66377.js.map": "/react-product-landing/static/js/main.3df66377.js.map",
+    "787.58785319.chunk.js.map": "/react-product-landing/static/js/787.58785319.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a58e61c.css",
+    "static/js/main.3df66377.js"
+  ]
+}
